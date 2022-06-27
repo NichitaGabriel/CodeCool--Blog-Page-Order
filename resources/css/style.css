@@ -1,0 +1,12 @@
+.container {
+  max-width: 72vw;
+}
+
+.edit-button {
+  outline: none;
+  border: none;
+  background: inherit;
+  width: 25px;
+  height: 25px;
+  padding: 0;
+}
